@@ -1,6 +1,7 @@
 # Teste Vuejs e Springboot
 
 ### Installation
+```bash
 cd backend
 mvn clean install
 mvn spring-boot🇧🇳
